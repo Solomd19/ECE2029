@@ -1,6 +1,6 @@
 # ECE 2029: Introduction to Digital Circuit Design
 
-ECE 2029 Lab Code + Final Project, Created for the Basys 3 FPGA Board:
+ECE 2029 Lab Code + Final Project, Created using Verilog for the Basys 3 FPGA Board:
 
 Lab 2:  Introduction to Xilinx Vivado Design Environment\
 Lab 3: Implementing Combinational Functional Blocks\
